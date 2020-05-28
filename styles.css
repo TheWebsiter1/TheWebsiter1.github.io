@@ -1,7 +1,7 @@
 body {
   text-align: center;
-  background-color: black;
-/*   background-image: url(background.jpg); */
+/*   background-color: black; */
+  background-image: url(background.jpg);
 }
 
 
@@ -39,15 +39,15 @@ body {
 }
 
 .udi {
-background-image: url(images/udi.jpg);
+background-image: url(Images/udi.jpg);
 }
 
 .yuval {
-  background-image: url(images/yuval.jpg);
+  background-image: url(Images/yuval.jpg);
 }
 
 .tal {
-background-image: url(tal.jpg);
+background-image: url(Images/tal.jpg);
 }
 
 .daniel {
