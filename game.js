@@ -48,7 +48,7 @@ if(userClickedPattern[currentLevel] === gamePattern[currentLevel]) {
   setTimeout(function() {
     $("body").removeClass("game-over");
   }, 200);
-  $("#level-title").text("Game Over, Press Any Key To Restart");
+  $("#level-title").text("Game Over, Press Again To Restart");
   startOver();
 }
 }
